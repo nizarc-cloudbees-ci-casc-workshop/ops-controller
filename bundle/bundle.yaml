@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "nizarc-cloudbees-ci-casc-workshop-ops-controller"
 description: "CloudBees CI configuration bundle for the nizarc-cloudbees-ci-casc-workshop ops-controller Controller"
 parent: "base"
